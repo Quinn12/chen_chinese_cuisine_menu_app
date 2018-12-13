@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">chen_chinese_cuisine_menu_app</string>
+    <string name="title">Chen Chinese Cuisine</string>
+    <string name="description">Welcome to Chen Chinese Cuisine, we have 5 star quality food and service please stay or get delivery.</string>
+
+    //MainAct
+    <string name="txt_btn_menu">Enter Menu</string>
+    <string name="txt_btn_member">Members</string>
+    <string name="btn_menu"> </string>
+    <string name="btn_member"> </string>
+
+    //Menu
+    <string name="quantity">Quantity</string>
+    <string name="appetizers">Appetizers</string>
+    <string-array name="appetizers_array">
+        <item>King egg roll $1.85</item>
+        <item>Vegetable spring egg rolls(2) $3.25</item>
+        <item>Fantail shrimp(4) $4.95</item>
+        <item>Bar-BQ spare ribs $5.50</item>
+        <item>Fried pot stickers(6) $5.25</item>
+        <item>Crab rangoon(5) $4.50</item>
+    </string-array>
+
+    <string name="drinks">Drinks</string>
+    <string-array name="drinks_array">
+        <item>Shanghi cosmopolitan $7.50</item>
+        <item>Mai Tai $7.50</item>
+        <item>Daiquiris $7.50</item>
+        <item>Margaritas $7.50</item>
+        <item>Green tea $2.25</item>
+        <item>Coke/Diet coke $2.25</item>
+    </string-array>
+
+    <string name="desserts">Desserts</string>
+    <string-array name="desserts_array">
+        <item>Mochi(1) $1.75</item>
+        <item>Macha green tea ice cream $2.50</item>
+        <item>Vanilla ice cream $2.00</item>
+        <item>Chocolate ice cream $2.00</item>
+        <item>Big chocolate cake $7.75</item>
+    </string-array>
+
+    <string name="soups">Soups</string>
+    <string-array name="soups_array">
+        <item>Wonton soup sm.$2.75 lg.$4.75</item>
+        <item>Hot and sour soup sm.$2.95 lg.$4.95</item>
+        <item>Egg drop soup sm.$2.50 lg.$4.25</item>
+        <item>Vegetable with tofu soup 44.95</item>
+        <item>Sizzling rice soup with shrimp $7.50</item>
+        <item>House special soup $7.95</item>
+    </string-array>
+
+    <string name="salads">Salads</string>
+    <string-array name="salads_array">
+        <item>House salad $4.75</item>
+        <item>Calamari salad $7.95</item>
+        <item>Seared salmon salad $10.50</item>
+    </string-array>
+
+    <string name="chicken">Chicken</string>
+    <string-array name="chicken_array">
+        <item>Moo goo gai pan $10.50</item>
+        <item>Chicken and broccoli $10.50</item>
+        <item>Chicken with cashew or almond nuts $10.95</item>
+        <item>Sweet and sour chicken $10.50</item>
+        <item>Chicken and mixed vegetables $10.50</item>
+        <item>Kung pao chicken $10.50</item>
+    </string-array>
+
+    <string name="pork">Pork</string>
+    <string-array name="pork_array">
+        <item>Pork with mixed vegetables $9.75</item>
+        <item>Sweet and sour pork $9.75</item>
+        <item>Double sauteed pork $9.75</item>
+        <item>Hunan pork $9.75</item>
+        <item>Moo shu pork $9.95</item>
+    </string-array>
+
+    <string name="vegetable">Vegetable</string>
+    <string-array name="vegetable_array">
+        <item>Sauteed broccoli $8.25</item>
+        <item>Sauteed szechuan green beans 8.75</item>
+        <item>Stir-fried mixed vegetable tray $8.25</item>
+        <item>Sauteed baby bok choy $8.95</item>
+        <item>Ma po tofu $8.75</item>
+        <item>Tofu home style $8.95</item>
+    </string-array>
+
+    <string name="seafood">Seafood</string>
+    <string-array name="seafood_array">
+        <item>Shrimp and lobster sauce $12.50</item>
+        <item>Shrimp with snow peas $12.95</item>
+        <item>Sweet and sour shrimp $12.50</item>
+        <item>Kung pao shrimp $12.50</item>
+        <item>Empress shrimp $13.95</item>
+        <item>Steamed fish fillet $15.95</item>
+    </string-array>
+
+    <string name="kids">Kids</string>
+    <string-array name="kids_array">
+        <item>Kids sweet and sour chicken $6.25</item>
+        <item>Kids beef and broccoli $6.25</item>
+    </string-array>
+
+    <string name="tip_text">Tip:</string>
+    <string name="btn_pay">Payment</string>
+    <string name="btn_cancel">Cancel</string>
+
+
+    //payment confirm
+
+</resources>

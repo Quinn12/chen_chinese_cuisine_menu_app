@@ -1,0 +1,13 @@
+package com.example.quinnh.chen_chinese_cuisine_menu_app;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class MemberRegister extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_member_register);
+    }
+}
